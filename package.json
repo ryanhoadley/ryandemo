@@ -1,0 +1,22 @@
+{
+  "name": "ryandemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanhoadley/ryandemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryanhoadley/ryandemo/issues"
+  },
+  "homepage": "https://github.com/ryanhoadley/ryandemo#readme",
+  "devDependencies": {
+    "cypress": "^14.0.0"
+  }
+}
